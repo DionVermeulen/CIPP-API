@@ -1,0 +1,19 @@
+{
+  "name": "Test",
+  "style": "Table",
+  "Fields": [
+    {
+      "name": "Test",
+      "UseExistingInfo": false,
+      "FrontendFields": [
+        {}
+      ],
+      "StoreAs": "bool",
+      "API": "Graph",
+      "ExtractFields": [
+        "createdDateTime"
+      ],
+      "URL": "https://graph.microsoft.com/beta/identity/conditionalAccess/policies?$filter=startswith(displayName,'CAD004')"
+    }
+  ]
+}
