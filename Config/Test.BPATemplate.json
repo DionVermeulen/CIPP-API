@@ -8,12 +8,12 @@
       "FrontendFields": [
         {}
       ],
-      "StoreAs": "bool",
+      "StoreAs": "JSON",
       "API": "Graph",
       "ExtractFields": [
         "createdDateTime"
       ],
-      "URL": "https://graph.microsoft.com/beta/identity/conditionalAccess/policies?$filter=startswith(displayName,'CAD004')"
+      "URL": "https://graph.microsoft.com/beta/identity/conditionalAccess/policies"
     }
   ]
 }
