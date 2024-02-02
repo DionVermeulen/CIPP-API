@@ -7,10 +7,12 @@
       "UseExistingInfo": false,
       "FrontendFields": [
         {
-          "name": "Test",
+          "name": "Conditional Access Policies",
+          "value": "CAPolicies",
           "formatter": "table"
         }
       ],
+      "desc": "CAPolicies",
       "StoreAs": "JSON",
       "API": "Graph",
       "ExtractFields": [
