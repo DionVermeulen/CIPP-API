@@ -3,7 +3,7 @@
   "style": "Table",
   "Fields": [
     {
-      "name": "Test",
+      "name": "CAPolicies",
       "UseExistingInfo": false,
       "FrontendFields": [
         {
@@ -12,7 +12,7 @@
           "formatter": "table"
         }
       ],
-      "desc": "CAPolicies",
+      "desc": "",
       "StoreAs": "JSON",
       "API": "Graph",
       "ExtractFields": [
