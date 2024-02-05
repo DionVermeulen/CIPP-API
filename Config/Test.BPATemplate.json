@@ -9,6 +9,7 @@
         {
           "name": "Device Register",
           "value": "deviceregister",
+          "desc": "These are all devices found in M365 to add to your CE Device Register.",
           "formatter": "table"
         }
       ],
