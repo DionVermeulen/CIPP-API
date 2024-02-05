@@ -16,9 +16,9 @@
       "StoreAs": "JSON",
       "API": "Graph",
       "ExtractFields": [
-        "createdDateTime"
+        "deviceName"
       ],
-      "URL": "https://graph.microsoft.com/beta/identity/conditionalAccess/policies"
+      "URL": "https://graph.microsoft.com/beta/deviceManagement/managedDevices"
     }
   ]
 }
