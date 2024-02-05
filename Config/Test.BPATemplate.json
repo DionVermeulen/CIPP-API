@@ -7,7 +7,7 @@
       "UseExistingInfo": false,
       "FrontendFields": [
         {
-          "name": "Conditional Access Policies",
+          "name": "Device Register",
           "value": "deviceregister",
           "formatter": "table"
         }
