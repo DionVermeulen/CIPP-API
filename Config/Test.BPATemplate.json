@@ -3,7 +3,7 @@
   "style": "Tenant",
   "Fields": [
     {
-      "name": "CAPolicies",
+      "name": "deviceregister",
       "UseExistingInfo": false,
       "FrontendFields": [
         {
