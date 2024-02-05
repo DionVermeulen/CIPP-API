@@ -13,7 +13,6 @@
           "formatter": "table"
         }
       ],
-      "desc": "",
       "StoreAs": "JSON",
       "API": "Graph",
       "ExtractFields": [
